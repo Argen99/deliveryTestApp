@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.radiobutton.MaterialRadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rb_category"
+    android:layout_width="wrap_content"
+    android:layout_height="32dp"
+    android:layout_marginVertical="4dp"
+    android:layout_marginEnd="8dp"
+    android:background="@drawable/radio_selector"
+    android:button="@android:color/transparent"
+    android:elevation="4dp"
+    android:gravity="center"
+    android:minWidth="88dp"
+    android:text="text"
+    android:textColor="@drawable/bottom_nav_ripple_color" />
